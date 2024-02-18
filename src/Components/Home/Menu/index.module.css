@@ -1,0 +1,9 @@
+.menu {
+  gap: 10px;
+}
+
+.menu a {
+  width: 150px;
+  text-align: center;
+  border-bottom: 2px solid gray;
+}
