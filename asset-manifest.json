@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-test-favorite-musics/static/css/main.9d50366c.css",
-    "main.js": "/React-test-favorite-musics/static/js/main.ffadc8b6.js",
+    "main.js": "/React-test-favorite-musics/static/js/main.a110c6de.js",
     "static/media/header.jpg": "/React-test-favorite-musics/static/media/header.cee85c8f0b21e1c7cd4f.jpg",
     "index.html": "/React-test-favorite-musics/index.html",
     "main.9d50366c.css.map": "/React-test-favorite-musics/static/css/main.9d50366c.css.map",
-    "main.ffadc8b6.js.map": "/React-test-favorite-musics/static/js/main.ffadc8b6.js.map"
+    "main.a110c6de.js.map": "/React-test-favorite-musics/static/js/main.a110c6de.js.map"
   },
   "entrypoints": [
     "static/css/main.9d50366c.css",
-    "static/js/main.ffadc8b6.js"
+    "static/js/main.a110c6de.js"
   ]
 }
